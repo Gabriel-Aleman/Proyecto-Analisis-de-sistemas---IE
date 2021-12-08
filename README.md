@@ -1,8 +1,10 @@
 # Proyecto-Analisis-de-sistemas---IE
 
 El presente repositorio contiene el código empleado para el análisis en el proyecto final
-del curso de __Análisis de sistemas__, impartido dentro de la facultad de ingenieria elec-
-trica de la universidad de CostaRica.
+del curso de __Análisis de sistemas__, impartido por de la facultad de ingenieria electri-
+ca de la universidad de CostaRica.
+
+Adicionalemente, en la carpeta de documentación están disponibles documentos adicionales.
 
 Los miembros de este proyecto fuimos:
 
