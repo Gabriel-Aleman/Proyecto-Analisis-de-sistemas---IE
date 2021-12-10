@@ -4,7 +4,7 @@ El presente repositorio contiene el código empleado para el análisis en el pro
 del curso de __Análisis de sistemas__, impartido por de la facultad de ingenieria electri-
 ca de la universidad de CostaRica.
 
-Adicionalemente, en la carpeta de documentación están disponibles documentos adicionales.
+Adicionalemente, en la carpeta de 'Documentation' están disponibles documentos adicionales.
 
 Los miembros de este proyecto fuimos:
 
